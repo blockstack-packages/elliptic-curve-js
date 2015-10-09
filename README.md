@@ -1,4 +1,4 @@
-# SECP256k1 JS
+# secp256k1.js
 
 [![npm](https://img.shields.io/npm/l/secp256k1.js.svg)](https://www.npmjs.com/package/secp256k1.js)
 [![Slack](http://slack.blockstack.org/badge.svg)](http://slack.blockstack.org/)
@@ -6,7 +6,7 @@
 [![](https://nodei.co/npm/secp256k1.js.png?downloads=true)](https://www.npmjs.com/package/secp256k1.js)
 
 ```
-npm install secp256k1
+npm install secp256k1.js
 ```
 
 ### Private Keys to Public Keys
