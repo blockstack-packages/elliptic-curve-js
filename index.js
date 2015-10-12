@@ -1,1 +1,3 @@
-module.exports = require('./lib/secp256k1')
+module.exports = {
+    secp256k1: require('./lib/secp256k1')
+}
