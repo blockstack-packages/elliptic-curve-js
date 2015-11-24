@@ -3,9 +3,8 @@
 [![CircleCI](https://img.shields.io/circleci/project/blockstack/elliptic-curve-js.svg)](https://circleci.com/gh/blockstack/elliptic-curve-js)
 [![npm](https://img.shields.io/npm/l/elliptic-curve.svg)](https://www.npmjs.com/package/elliptic-curve)
 [![npm](https://img.shields.io/npm/v/elliptic-curve.svg)](https://www.npmjs.com/package/elliptic-curve)
+[![npm](https://img.shields.io/npm/dm/elliptic-curve.svg)](https://www.npmjs.com/package/elliptic-curve)
 [![Slack](http://slack.blockstack.org/badge.svg)](http://slack.blockstack.org/)
-
-[![](https://nodei.co/npm/elliptic-curve.png?downloads=true)](https://www.npmjs.com/package/elliptic-curve)
 
 ```
 npm install elliptic-curve
