@@ -1,6 +1,6 @@
 {
   "name": "elliptic-curve",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Library for operations on secp256k1 keys.",
   "main": "index.js",
   "scripts": {
